@@ -35,7 +35,7 @@ Before installation, ensure you have:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/scholarhub.git
+git clone [https://github.com/moradiashivam/scholarhub.git](https://github.com/moradiashivam/ScholarHub.git)
 cd scholarhub
 
 # Install dependencies
